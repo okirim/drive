@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/drive",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\Drive\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Okirim-AEK",
+            "email": "abdelkader.okirim@decathlon.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "2.6"
+    }
+}
